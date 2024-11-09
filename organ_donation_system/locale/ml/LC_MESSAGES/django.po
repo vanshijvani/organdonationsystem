@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-09 14:46+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\language\models.py:24 .\language\models.py:35
+msgid "Full Name"
+msgstr "പൂർണ്ണ പേര്"
+
+#: .\language\models.py:25 .\language\models.py:36
+msgid "Email"
+msgstr "ഇമെയിൽ"
+
+#: .\language\models.py:26 .\language\models.py:37
+msgid "Contact Number"
+msgstr "കონടാക്റ്റ് നമ്പർ"
+
+#: .\language\models.py:27 .\language\models.py:38
+msgid "Date of birth"
+msgstr "ജനന തിയതി"
+
+#: .\language\models.py:28 .\language\models.py:39
+msgid "Gender"
+msgstr "ലിംഗം"
+
+#: .\language\models.py:29 .\language\models.py:40
+msgid "Blood Group"
+msgstr "രക്തം ഗ്രൂപ്പ്"
+
+#: .\language\models.py:30
+msgid "Organ to donate"
+msgstr "ദാനം ചെയ്യേണ്ട അംഗം"
+
+#: .\language\models.py:31 .\language\models.py:42
+msgid "Address"
+msgstr "മൂല്യവായം"
+
+#: .\language\models.py:41
+msgid "Organ Needed"
+msgstr " ആവശ്യമായ ഓർഗൺ"
